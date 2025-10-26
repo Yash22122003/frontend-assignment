@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import logo from './logo.svg';
 import QuestionIcon from './QuestionIcon.svg';
 import GalleryIcon from './GalleryIcon.svg';
 import './App.css';
